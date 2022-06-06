@@ -1,5 +1,5 @@
 const url = 'http://api-uat.astralife.co.id/sh/v1/download/riplay'
-const token = 'd9df3bb3-4ec1-31a8-ba9e-41b08121536a'
+const token = '3699d137-574a-35e3-881d-75bf1fc646cc'
 const config = {
     headers: {
         'Authorization': `Bearer ${token}`
